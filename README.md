@@ -8,12 +8,19 @@ This contains a program which calculate the average grade for each student and t
     
     Here is the csv file  which contains the following data:
     StudentID,English,Physics,Chemistry,Maths
+    
 1,80,70,90,85
+
 2,75,80,70,90
+
 3,85,90,80,75
+
 4,70,85,90,80
+
 5,60,75,70,90
-Also the output screen :
+
+
+Also the output screen :which prints class average and the students average grade accordingly their obtained marks per subject.
 
 ![Screenshot from 2023-04-12 13-43-01](https://user-images.githubusercontent.com/125342404/231395250-017fb772-e777-47ec-946b-01061599ddd7.png)
 
